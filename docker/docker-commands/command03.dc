@@ -1,0 +1,3 @@
+docker container ls -f name =01container 
+
+# filtra todos os containers com nome 01container
