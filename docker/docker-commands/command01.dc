@@ -1,3 +1,1 @@
 docker container create -it --name 01container alpine:3.12
-
-# cria um container interativo com o nome 01container e usa a versão alpina 3.12 da nuvem como base.
